@@ -8,8 +8,8 @@ export default function App() {
       <StatusBar style="auto" />
     </View>
   );
-}
-
+  
+si
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -18,3 +18,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+}

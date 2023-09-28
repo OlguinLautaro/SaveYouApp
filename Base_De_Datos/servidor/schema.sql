@@ -1,4 +1,4 @@
-CREATE DATABASE SaveYouApp;
+CREATE DATABASE saveyouapp;
 
 USE SaveYouApp;
 

@@ -1,6 +1,6 @@
 CREATE DATABASE saveyouapp;
 
-USE SaveYouApp;
+USE saveyouapp;
 
 CREATE TABLE users{
     id INT AUTO_INCREMENT PRIMARY KEY,

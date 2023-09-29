@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "947722727897",
-    "project_id": "saveyouapp",
-    "storage_bucket": "saveyouapp.appspot.com"
+    "project_number": "832368381997",
+    "project_id": "saveyouapp-604d3",
+    "storage_bucket": "saveyouapp-604d3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:947722727897:android:8c9a518649311c51e829c8",
+        "mobilesdk_app_id": "1:832368381997:android:d707557b04a55fe572e8a4",
         "android_client_info": {
           "package_name": "SaveYou.App"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "947722727897-coek4cti29c8f5gtdj0q2q08p60v2hqm.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDOKJpiAPAmRvVa_aIZWcpO-IrRb9QT3M0"
+          "current_key": "AIzaSyD28vV-7f6cEa-HY2bqvtgfFCl15g02rM8"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "947722727897-coek4cti29c8f5gtdj0q2q08p60v2hqm.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

@@ -1,1 +1,1 @@
-import './App/firebase.js'
+import './AppDataBase/firebase.js'

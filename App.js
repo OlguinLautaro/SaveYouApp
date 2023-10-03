@@ -4,13 +4,11 @@ import React from 'react';
 import {getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword} from 'firebase/auth';
 import {initializeApp} from 'firebase/app';
 import {firebaseConfig} from './DataBase/build.gradle';
+import SplashScreen from './componentes/SplashScreen';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <SplashScreen></SplashScreen>
   );
   
 
